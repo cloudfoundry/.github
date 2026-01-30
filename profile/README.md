@@ -1,7 +1,7 @@
 ```markdown
 # Cloud Foundry Community Overview
 
-The Cloud Foundry community operates on a well-defined, transparent role system that recognizes contributions and grants responsibilities based on sustained engagement. The community follows a progression model outlined in the official [ROLES.md](https://github.com/cloudfoundry/community/blob/main/toc/ROLES.md) document:
+The Cloud Foundry community operates on a well-defined, transparent role system that recognizes contributions and grants responsibilities based on sustained engagement. The community follows a progression model outlined in the official [ROLES.md](https://github.com/cloudfoundry/community/blob/main/toc/ROLES.md) document.
 
 ## 🌱 Contributor → 🔧 Reviewer → 🛠️ Approver
 
