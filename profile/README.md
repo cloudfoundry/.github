@@ -8,7 +8,7 @@ Cloud Foundry is an open-source, multi-cloud application platform as a service (
 - **Polyglot support** - Build with Java, Node.js, Python, Go, PHP, Ruby, and more. We speak more languages than a UN interpreter
 - **Container-native** - Built on modern container technology (because putting things in boxes always makes them better)
 - **Automated operations** - Self-healing, rolling deployments, and zero-downtime updates. It's like having a robot assistant that actually works
-- **Enterprise-grade** - Battle-tested at scale by organizations worldwide (survived production on a Friday afternoon)
+- **Enterprise-grade** - Battle-tested at scale by organizations worldwide (it can run 99,999 app containers on a Friday afternoon, plus the one you can't get working)
 
 ## We'd Love to Have You Join Us
 
@@ -28,8 +28,7 @@ Don't wait for permission. Don't wait until you're "ready". Whether you're a sea
 2. **Join discussions** - Participate in working group meetings and PRs or issue discussions
     * 👉 **Check our community structure:** [github.com/cloudfoundry/community](https://github.com/cloudfoundry/community/)
     * 👉 **Attend a Working Group meeting:** [github.com/cloudfoundry/community/wgs](https://github.com/cloudfoundry/community/blob/main/toc/working-groups/WORKING-GROUPS.md)
-3. **Contribute code** - Pick up issues labeled "good first issue" or "help wanted"
+3. **Contribute code** - Pick up an issue you are interested in and submit a PR
     * 👉 **Make your first PR:** [github.com/cloudfoundry](https://github.com/cloudfoundry)
-
 4. **Grow your impact** - As you contribute, you'll naturally progress through community roles
 
