@@ -10,6 +10,9 @@ Cloud Foundry is an open-source, multi-cloud application platform as a service (
 - **Automated operations** - Self-healing, rolling deployments, and zero-downtime updates. It's like having a robot assistant that actually works
 - **Enterprise-grade** - Battle-tested at scale by organizations worldwide (it can run 99,999 app containers on a Friday afternoon, plus the one you can't get working)
 
+### Try CF
+If you want to try CF locally on your machine, check out [this blog](https://www.cloudfoundry.org/blog/cloud-foundry-in-10-minutes/) on how to do it. And if you're interested in trying CF through a vendor, take a look at the vendors listed on the [CF page](https://www.cloudfoundry.org/try-cloud-foundry/).
+
 ## We'd Love to Have You Join Us
 
 Cloud Foundry is built by people like you. Jump into Slack, attend a working group meeting, or submit your first PR. The community is active, helpful, and always welcoming new faces. The community operates on a well-defined, transparent role system that recognizes contributions and grants responsibilities based on sustained engagement. The progression model is outlined in the official [roles.md](https://github.com/cloudfoundry/community/blob/main/toc/ROLES.md) document and goes as follows: 🌱 Contributor → 🔧 Reviewer → 🛠️ Approver.
